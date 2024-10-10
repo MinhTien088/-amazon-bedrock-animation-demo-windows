@@ -1,0 +1,2 @@
+file 'D:\AWSStudy\GenAI_Video_Animations\windows\content\generated_videos/demo1.mp4'
+file 'D:\AWSStudy\GenAI_Video_Animations\windows\content\generated_videos/demo1_reversed.mp4'
